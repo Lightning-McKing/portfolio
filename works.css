@@ -1,0 +1,112 @@
+body, html {
+  height: 100%;
+  width: 100% padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.parallax {
+  height: 100%;
+  background-image: url("assests/paper2.gif");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.first-container, .second-container, .third-container, .fourth-container, .fifth-container, .sixth-container, .seventh-container {
+  background-color: black;
+}
+
+.wh {
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #A66CFF;
+  font-size: 5rem;
+  margin-bottom: 0;
+}
+
+.wb, .am, .rnnm, .ml, .bc, .sf {
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  color: #A66CFF;
+  font-size: 2.8rem;
+}
+
+.mbp, .hd {
+  height: 100%;
+  width: 100%;
+}
+
+.r12, .r21, .r32, .r41, .r51, .r52, .r61, .r62 {
+  padding: 20px 20px 20px 20px;
+  text-align: center;
+}
+
+.mbpdet, .tsddet, .cmddet, .hdcdet, .hpddet, .bcdet, .sfdet {
+  font-size: 1.5rem;
+  font-family: 'Acme', sans-serif;
+  color: #A66CFF;
+  text-align: left;
+}
+
+.btn {
+  background-color: #A66CFF;
+  color: black;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  opacity: 0.8;
+  margin-bottom: 18px;
+  margin-top: 12px;
+}
+
+.btn:hover {
+  background-color: #A66CFF;
+  color: black;
+  opacity: 1;
+}
+
+.r31 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.hdcdet {
+  text-align: left;
+}
+
+.hpddet {
+  text-align: left;
+}
+
+.r61 {
+  text-align: center;
+}
+
+.bcdet {
+  text-align: left;
+}
+
+.btn {
+  background-color: #A66CFF;
+  color: black;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.sfbuttons {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.sfb1 {
+  margin-right: 10px;
+}
+
+.sfb2 {
+  margin-left: 10px;
+}
+.r72{
+  padding-top: 10px;
+}
